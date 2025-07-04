@@ -55,16 +55,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aditya-mistri&theme=radical" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
 ### 🎯 Fun Fact
 
 > "The best error message is the one that never shows up." – *Thomas Fuchs*
