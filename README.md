@@ -1,4 +1,4 @@
-### <h1 align="center">Hi 👋, I'm Aditya Mistri</h1>
+<h1 align="center">Hi 👋, I'm Aditya Mistri</h1>
 <h3 align="center">Aspiring Software Engineer from India</h3>
 
 <p align="center">
@@ -7,14 +7,16 @@
 
 ---
 
-### 🚀 About Me:
-- 🌱 I’m currently learning **MERN, Sockets, and other web technologies**
-- 💬 Ask me about **Nextjs, React, Typescript, Java, DSA, Node.js, Express...**
+### 🚀 About Me
+
+- 🌱 I’m currently learning **MERN, Sockets, and other web technologies**  
+- 💬 Ask me about **Next.js, React, TypeScript, Java, DSA, Node.js, Express...**  
 - 📫 How to reach me: **adityamistri19@gmail.com**
 
 ---
 
-### 🌐 Connect with Me:
+### 🌐 Connect with Me
+
 <p align="center">
   <a href="https://linkedin.com/in/adityamistri" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -29,14 +31,16 @@
 
 ---
 
-### 🛠️ Languages & Tools:
+### 🛠️ Languages & Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,git,linux,tailwind,redux,firebase" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aditya-mistri&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -51,7 +55,8 @@
 
 ---
 
-### 🏆 GitHub Trophies:
+### 🏆 GitHub Trophies
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aditya-mistri&theme=radical" alt="GitHub Trophies" />
@@ -60,5 +65,6 @@
 
 ---
 
-### 🎯 Fun Fact:
-> "The best error message is the one that never shows up." - Thomas Fuchs
+### 🎯 Fun Fact
+
+> "The best error message is the one that never shows up." – *Thomas Fuchs*
